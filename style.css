@@ -1,0 +1,346 @@
+.body {
+margin: 0;
+
+
+}
+
+
+
+.rindkopas-krasa {
+    background-color: #FFFBDD;
+    text-align: center;
+    font-family: "Kavivanar", cursive;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 2%;
+    }
+
+    .nav-link {
+        color: #000;
+        text-align: center;
+        font-family: Sahitya;
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+       
+    
+    }
+
+    .container-fluid-col-6 {
+background-color: #D8A48F;
+width: 100%;
+ margin-right: auto;
+ margin-left: auto;
+height: 71px;
+
+    }
+
+
+.container1-col-2 {
+        background-color: #EFEBCE;
+
+    }
+
+
+
+    .carousel-inner {
+margin-top: 50px;
+width: 500px;
+height: 700px;
+margin-left: 700px;
+
+
+
+    }
+
+
+.carousel-control-prev {
+margin-left: 500px;
+
+
+}
+
+.carousel-control-next {
+ margin-right: 500px;
+
+    
+}
+
+
+.atdalijums1 {
+width: 100%;
+height: 55px;
+background-color:#D6CE93;
+}
+
+
+
+
+.container2 {
+ background: #D6CE93;
+height: 870px;
+}
+
+.rindkopas-krasa2 {
+    background: #BCB059;
+    color: #000;
+    text-align: center;
+    font-family: Sahitya;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 20px
+ 
+    
+    }
+
+.bio {
+    display: block;
+background: #F9F0AD;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+font-size: 30px;
+margin-left: 1000px;
+margin-right: 100px;
+margin-top: 150px;
+border: 3px solid #d6cc7c;
+color: #000;
+
+}
+
+.attels {
+    display: block;
+    margin-left: 300px;
+    margin-top: 100px;
+    float: left;
+    width: 400px;
+    height: 600px
+
+}
+
+.atdalijums1-5 {
+    width: 100%;
+height: 70px;
+background-color:#D6CE93;
+}
+
+
+
+.atdalijums2 {
+    width: 100%;
+    height: 150px;
+    background-color:#A3A380;
+    }
+
+.container3 {
+    background: #A3A380;
+}
+
+
+.rindkopas-krasa3 {
+    text-align: right;
+    background: #777759;
+    color: #000;
+    font-family: Sahitya;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+   padding: 15px;
+   padding-right: 70px;
+}
+
+.column {
+    float: left;
+     background-color: #CCCCA1;
+    width: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 50px;
+    padding-top: 60px;
+    padding-bottom: 50px;
+   
+  }
+  
+  .row {
+margin-left: 200px;
+margin-right: 100px;
+margin-top: 90px;
+
+  }
+
+  .nosaukums {
+
+    display: block;
+    text-align: center;
+    font-family: monospace;
+    font-size: 35px;
+    color: #000;
+    
+
+  }
+
+  .kollonasteksts {
+    display: block;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #000;
+  }
+
+  .atdalijums2-5 {
+    width: 100%;
+    height: 40px;
+    background-color:#A3A380;
+  }
+
+
+  .atdalijums3 {
+    width: 100%;
+    height: 100px;
+    background-color:#D8A48F;
+  }
+
+.container4 {
+    background-color:#D8A48F;
+}
+
+
+
+  .rindkopas-krasa4 {
+    background: #9E7666;
+    color: #000;
+    text-align: center;
+    font-family: Sahitya;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 10px
+  }
+
+.pieredzesteksts {
+    margin-top: 150px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 0;
+    
+    padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 50px;
+    
+    display: block;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: #000;
+    background-color: #FFC1A8;
+}
+
+.atdalijums3-5 {
+    width: 100%;
+    height: 100px;
+    background-color:#D8A48F;
+}
+
+.atdalijums4 {
+    width: 100%;
+    height: 100px;
+    background-color: #BB8588;
+}
+
+
+.container5 {
+    background-color: #BB8588;
+}
+
+.rindkopas-krasa5 {
+    background: #6C5052;
+    color: #000;
+    text-align: center;
+    font-family: Sahitya;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 10px
+
+}
+
+.prasmesteksts {
+    margin-top: 150px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 0;
+    
+    padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 50px;
+    
+    display: block;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: #000;
+    background-color: #FFB2B7;
+
+}
+
+.atdalijums4-5 {
+    width: 100%;
+    height: 150px;
+    background-color: #BB8588;
+}
+
+
+.atdalijums5 {
+    width: 100%;
+    height: 70px;
+    background-color: #858570;
+}
+
+
+.container6 {
+    background-color: #858570;
+    display: inline-flex;
+flex-direction: row;
+gap: 40px 50px;
+}
+
+.instagram {
+    padding: 5px;
+    width: 108.432px;
+    height: 102px;
+  margin-top: 20px;
+  margin-left: 750px;
+  padding-bottom: 10px;
+  margin-bottom: 50px;
+}
+
+
+.tiktok {
+    padding: 5px;
+    width: 108.432px;
+    height: 102px;
+  margin-top: 20px;
+  padding-bottom: 10px;
+  margin-bottom: 50px;
+}
+
+.snapchat {
+    padding: 5px;
+    width: 108.432px;
+    height: 102px;
+    margin-top: 20px;
+    margin-right: 728px;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+}
+
